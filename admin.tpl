@@ -1,5 +1,5 @@
 <div class="titrePage">
-  <h2>Check Uploads</h2>
+  <h2>{'Check Uploads'|@translate}</h2>
 </div>
 
 <form method="post" action="">
